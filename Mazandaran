@@ -1,0 +1,5 @@
+mazandaran_cities_list = ["1-joybar","2-babol","3-sary","4-ghaemshahr","5-amol","6-neka","7-behshar","8-jhalos","9-babolsar","10-tonekabon","11-noshahr","12-feraydonkenar","13-ramsar","14-mahmodabad","15-amirkola","16-nor","17-galogah","18-sadatshahr","19-zirab","20-abasabad","21-khalilshar","22-rostamkola","23-khoramshahr","24-shirod","25-jhamestan","26-kelardasht","27-hajhirod","28-arateh","29-salmanshahr","30-sork","31-shirgah","32-polsefid","33-kiakola","34-bahnemir","35-hadishahr","36-royan","37-izadshahr","38-gatab","39-sorkhrod","40-marzanababd","41-nashtarod","42-kelarabad","43-astanehsar","44-emamzadeh_abdolah","45-khoshrodpay","46-babakan","47-zargar","48-kiasar","49-kajor","50-alasht"]
+
+for mazandaran in mazandaran_cities_list : 
+    print(mazandaran)
+    
