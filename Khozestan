@@ -1,0 +1,5 @@
+khozestani_cities_list = ["1-ahvaz","2-abadan","3-dezfol","4-shoshtar","5-andimeshk","6-khoramshahr","7-andimeshk","8-behbahan","9-eazeh","10-masjedsoleyman","11-banda_emamkhomeymi","12-ramhormoz","13-omidyeh","14-shosh","15-shadegan","16-sosangerd","17-jhamran","18-handijan","19-shiban","20-baghmalak","21-ramshir","22-gatond","23-hamidyeh","24-laly","25-hoveyzeh","26-veys","27-haftkel","28-malasani","29-sherafat","30-dezab","31-ghaleh-tel","32-safyabad","33-shawer","34-myanrod","35-arvandkenar","36-hor","37-salehshahr","38-bestan","39-jhoybedeh","40-alvan","41-baghmalak","42-janatmakan","43-darkhoyn","44-torkalaky","45-andimeshk","46-dehdaz","47-rafie","48-midavood","49-goryeh","50-ghaleh-khajeh"]
+
+for khozestan in khozestani_cities_list : 
+    print(khozestan)
+    
