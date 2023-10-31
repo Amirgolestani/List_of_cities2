@@ -1,0 +1,5 @@
+isfahan_cities_list = ["1-kashan","2-khomainishahr","3-najafabad","4-shahinabad","5-daran","6-shahreza","7-foladshahr","8-tiran","9-mobarakeh","10-bidgol","11-zarinshahr","12-golpayegan","13-fereydonshahr","14-dehaghan","15-jhadegan","16-felaverjan","17-dolatabad","18-naeen","19-samiram","20-khansar","21-gazbarkhar","22-ardestan","23-varzaneh","24-natnaz","25-baghbahadoran","26-damaneh","27-harand","28-khor","29-kohpayeh","30-boeen","31-nikabad","32-baharestan","33-ghahdarijhan","34-darjheh","35-ravand","36-khorzogh","37-goldasht","38-kelishad","39-abrisham","40-sadehlajan","41-dizijheh","42-varnamkhast","43-dastgerd","44-khofash-ha","45-badrod","46-imanshahr","47-jharmhin","48-pirbakran","49-koshak","50-noshabad"]
+
+for isfahan in isfahan_cities_list : 
+    print(isfahan)
+    
