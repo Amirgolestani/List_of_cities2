@@ -1,0 +1,4 @@
+sistan_cities_list = ["1-zahedan","2-zabol","3-iran shahr","4-jhabahar","5-saravan","6-khash","7-kenarak","8-jalegh","9-nikshahr","10-pishin","11-soran","12-zahak","13-fenoj","14-mehrestan","15-bampor","16-ghasr ghand","17-mohammaad","18-golmorty","19-rasak","20-mirjaveh","21-dost mohammad","22-bent","23-negor","24-mohammadi","25-nok abad","26-nosrat abad","27-bozman","28-gasht","29-ali akbar","30-espakeh","31-smail abad","32-bandar beris","33-zar abad","34-sib","35-ashar","36-benjar","37-adimi","38-mahmod abad","39-katig","40-parod","41-esfandak","42-jhogardak","43-sarbork","44-jhanof","45-sirkan","46-sarbaz","47-ghasem abad","48-sar gangal","49-rig malek","50-hidojh"]
+
+for sistan in sistan_cities_list: 
+    print(sistan)
