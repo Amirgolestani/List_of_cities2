@@ -1,0 +1,4 @@
+gilan_cities_list = ["1-rasht","bandar-anzalil","3-lahijan","4-langrod","5-hasht par","6-astara","7-some sara","8-ashrafyeh","9-rodsar","10-foman","11-khomam","12-syahkel","13-rezvan shahr","14-masal","15-mangil","16-amlesh","17-kia shahr","18-rostam abad","19-loshan","20-sangar","21-kolajhay","22-londoil","23-asalem","24-rahim abad","25-lasht nesha","26-rodbar","27-kojhesfahan","28-jhaf","29-jhaboksar","30-sheft","31-pareh sar","32-loleman","33-khoshk bijar","34-marjeghel","35-komeleh","36-shanderman","37-jhober","38-shalman","39-gorab","40-vajargah","41-havigh","42-lisar","43-rod beneh","44-jhokam","45-rankoh","46-otaghor","47-dileman","48-bareh sar","49-masoleh","50-totkabon"]
+
+for gilan in gilan_cities_list: 
+    print(gilan)
