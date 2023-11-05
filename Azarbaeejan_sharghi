@@ -1,0 +1,4 @@
+azarbaeejan_cities_list = ["1-abesh ahmad","2-achachi","3-azar shahr","4-aghkand","5-arbetan","6-osko","7-ahr","8-ilkhajhy","9-basmanj","10-bostan abad","11-banab","12-banab marand","13-tabriz","14-tork","15-torkaman jhay","16-tesoj","17-tikmeh dash","18-timorlo","19-jalfa","20-javan ghaleh","21-kharvana","22-khameneh","23-khodajo","24-khosro shah","25-khomarlo","26-khajeh","27-khosheh shahr","28-daryan","29-dozdozan","30-dizej","31-zarnagh","32-zenoz","33-sarab","34-sar dorod","35-sahand","36-sis","37-sepah rod","38-shabestar","39-sharbyan","40-shabestar","41-sharaf khaneh","42-shand abad","43-sofyan","44-asheghlo","45-ajab shir","46-alishah","47-ghareh aghaj","48-kord kandy","49-koshkasray","50-kalibr"]
+
+for azarbaeejan in azarbaeejan_cities_list: 
+    print(azarbaeejan)
