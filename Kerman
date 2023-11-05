@@ -1,0 +1,4 @@
+kerman_cities_list = ["1-kerman","2-sirjan","3-rafsanjan","4-jiraft","5-bam","6-zarand","7-kahnoj","8-shahr babak","9-baft","10-bordsir","11-barvat","12-ravar","13-mohamad abad","14-najaf abad","15-mahan","16-golbaf","17-anbar abad","18-mano jan","19-anar","20-rodbar","21-rabar","22-ghaleh gang","23-jjhatrod","24-kohbenan","25-jozem","26-darb behesht","27-rain","28-mes sar jheshmeh","29-ekhtyar abad","30-zeyd abad","31-zangi abad","32-khorsand","33-pariz","34-kashkoee","35-zegar","36-gonbaki","37-reyhan shahr","38-fahraj","39-arzoeeyeh","40-zahkalot","41-jabalbarez","42-ali abad","43-yazdan shahr","44-khaton abad","45-golzar","46-bolok","47-bahreman","48-narman shir","49-shahdad","50-rahmat abad"]
+
+for kerman in kerman_cities_list : 
+    print(kerman)
