@@ -1,0 +1,4 @@
+fars_cities_list = ["1-shiraz","2-marv dasht","3-jahrom","4-fasa","5-kazeron","6-sadra","7-darab","8-firoz abad","9-abadeh","10-lar","11-nor abad","12-niriz","13-aghlid","14-estehban","15-gerash","16-zaghan","17-kovar","18-lamard","19-safa shahr","20-ghaemyeh","21-haji abad","22-farash band","23-ghir","24-oz","25-khanj","26-kharameh","27-sarosetan","28-arsanjan","29-sa-adat shahr","30-ghader abad","31-ghader abad","32-dabiran","33-janat shahr","34-galeh dar","35-saghad","36-mimand","37-daryan","38-boanat","39-zahed shahr","40-khesht","41-ashkenan","42-benaroyeh","43-masiry","44-lepoee","45-shahr pir","46-karzin","47-sidan","48-joym","49-mehr","50-bahman"]
+
+for fars in fars_cities_list: 
+    print(fars)
