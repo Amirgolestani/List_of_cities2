@@ -1,0 +1,4 @@
+hormozgan_cities_list = ["1-bandar abas","2-minab","3-gheshm","4-kish","5-rodan","6-bandar langeh","7-haji abad","8-bandar kong","9-parsian","10-bandar jask","11-bandar khamir","12-dargehan","13-bastak","14-kokher dahrang","15-royder","16-bikah","17-jenah","18-hasht bandi","19-bandar pol","20-hormoz","21-soza","22-ghaleh ghazi","23-kargan","24-tiroz","25-sirik","26-bandazrack","27-dashti","28-laft","29-ramkan","30-zahoki","31-hangoyeh","32-tazyan paeen","33-abo mosa","34-tabl","35-bandar chak","36-garok","37-fin","38-kohij","39-koshkenar","40-takht","41-kohestak","42-lamzan","43-zyaratali","44-sandarak","45-fareghan","46-lirdef","47-sardasht","48-bala dasht","49-goharan","50-sargez"]
+
+for hormozgan in hormozgan_cities_list: 
+    print(hormozgan)
