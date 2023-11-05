@@ -1,0 +1,4 @@
+khorasan_cities_list = ["1-mashhad","2-neyshabor","3-sabzevar","4-torbat heydaryeh","5-kashmer","6-ghojhan","7-torbat jam","8-taybad","9-jhenaran","10-sarkhas","11-ganabad","12-fariman","13-golbahar","14-dargaz","15-khof","16-bordmaskan","17-targhabeh","18-fayz abad","19-neghab","20-shandiz","21-khero","22-khalil abad","23-sangan","24-bajestan","25-kariz","26-dolat abad","27-jaghtay","28-nashtifan","29-bakherz","30-razavyeh","31-saleh abad","32-farhad gerd","33-galamkan","34-ahmad abad","35-kalat","36-salami","37-rashtkhar","38-nasr abad","39-nil shahr","40-jangal","41-kander","42-anabed","43-sefid sang","44-solltan abad","45-firozeh","46-dorod","47-ryosh","48-bidokht","49-seyed abad","50-ghasem abad"]
+
+for khorasan in khorasan_cities_list: 
+    print(khorasan)
